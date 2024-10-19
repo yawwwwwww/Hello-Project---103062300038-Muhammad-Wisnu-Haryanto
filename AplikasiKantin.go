@@ -1,3 +1,7 @@
+//Nama : Muhammad Wisnu Haryanto
+//NIM : 103062300038
+//Kelas : S1-IT-KJ-23-001
+
 package main
 
 import (
